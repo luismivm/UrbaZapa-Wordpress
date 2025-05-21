@@ -9,3 +9,6 @@ Repositorio para trabajos sobre web 'UrbaZapa'
 
 ## PR3 - Instalacion de WP en Local
 [Acceder a PR3](/pr3-InstalacioLocalWP/InstalacionLocalWP.md)
+
+## PR4 - Creando Contenido en WP
+[Acceder a PR4](/pr4-CreandoContenidoEnWP/CreandoContenidoEnWP.md)
