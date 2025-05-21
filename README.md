@@ -12,3 +12,6 @@ Repositorio para trabajos sobre web 'UrbaZapa'
 
 ## PR4 - Creando Contenido en WP
 [Acceder a PR4](/pr4-CreandoContenidoEnWP/CreandoContenidoEnWP.md)
+
+## PR5 - WooCommerce en WP
+[Acceder a PR4](/pr5-WooCommerceEnWP/WooCommerceEnWP.md)
