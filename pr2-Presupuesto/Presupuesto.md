@@ -25,7 +25,7 @@
 | urbazapa.es     | ✅ Sí      | 8,95 €       |
 | urbazapa.shop   | ✅ Sí      | 22,95 €      |
 
-**Dominio recomendado:** `urbazapa.com` por ser internacional, fácil de recordar y estándar.
+**Dominio:** `urbazapa.com` por ser internacional, fácil de recordar y estándar.
 
 ---
 
@@ -39,7 +39,7 @@ Se han seleccionado tres proveedores con buen soporte para WordPress y WooCommer
 | Raiola Networks  | WP Básico          | 15 GB  | ✅  | 95 €                 | ✅ Sí                |
 | SiteGround       | StartUp            | 10 GB  | ✅  | 84 € (con descuento 1er año) | ✅ Sí        |
 
-**Opción recomendada:** Raiola Networks por su equilibrio entre rendimiento, soporte y precio.
+**Opción:** Raiola Networks por su equilibrio entre rendimiento, soporte y precio.
 
 ---
 
@@ -53,7 +53,7 @@ Se han evaluado opciones optimizadas para WooCommerce, visuales y adaptables al 
 | OceanWP          | ✅       | Opcional Premium | Desde 43 € | Excelente para tiendas online, opciones visuales avanzadas |
 | Flatsome         | ❌       | ✅    | 59 €    | Tema premium específico para WooCommerce, muy visual |
 
-**Tema recomendado:** Flatsome (si el cliente desea una apariencia moderna y profesional desde el inicio).
+**Tema:** Astra (si el cliente desea una apariencia moderna y profesional desde el inicio).
 
 ---
 
