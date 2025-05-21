@@ -14,4 +14,7 @@ Repositorio para trabajos sobre web 'UrbaZapa'
 [Acceder a PR4](/pr4-CreandoContenidoEnWP/CreandoContenidoEnWP.md)
 
 ## PR5 - WooCommerce en WP
-[Acceder a PR4](/pr5-WooCommerceEnWP/WooCommerceEnWP.md)
+[Acceder a PR5](/pr5-WooCommerceEnWP/WooCommerceEnWP.md)
+
+## PR6 - Jerarquía y estructura de archivos/carpetas de WordPress
+[Acceder a PR6](/pr6-Jerarquía%20y%20estructura%20de%20archivos/carpetasdeWordPress.md)
